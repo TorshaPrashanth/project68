@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.navbar1 {
+    position:sticky; 
+    top:0;
+    z-index:99999;
+}
+marquee {
+    font-size: 30px;
+    color: coral;
+}
